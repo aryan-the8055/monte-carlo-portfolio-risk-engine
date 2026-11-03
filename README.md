@@ -5,9 +5,6 @@ built to compare four return-generating models head-to-head and prove —
 empirically, via backtesting — which assumptions actually hold up against
 real history.
 
-See [CLAUDE.md](CLAUDE.md) for the full problem definition, dataset list and
-build plan.
-
 ## What it does
 
 1. Downloads/caches multi-asset price history (`yfinance`), long-history S&P
