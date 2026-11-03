@@ -1,0 +1,9 @@
+yfinance>=0.2.55
+pandas>=2.2
+numpy>=2.0
+scipy>=1.15
+matplotlib>=3.10
+requests>=2.32
+pyarrow>=19.0
+arch>=7.0
+openpyxl>=3.1
